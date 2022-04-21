@@ -1,3 +1,17 @@
+Instructions to Use:
+
+Save .asm Files to BIN Folder or Add BIN Folder to Your System Path
+
+Compile using ML.exe:
+
+.\ML.exe filename.asm
+
+This Will Produce Output .exe
+
+You may need DOSBox to Run The .exe File
+
+Linux Users Can Run The Compile using ML.exe With Wine and Install DOSBox to Run the exe
+
 
                    README.TXT File
 
